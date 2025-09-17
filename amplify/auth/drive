@@ -1,0 +1,62 @@
+Diagnosis Data
+Table Diagnosis Data :
+News/91
+NewsUrl/89
+NewsList/92
+NewsRead/0
+NewsImgs/80
+StocksCache/1
+MyStockDetails/1
+DETAILS/4
+Images/9
+NewsVideoStrip/1
+ConfigSettings/1
+MARKETS/0
+CHARTS/4
+Categories/0
+Table Data :
+
+MyStocks/6
+Table Data :
+_id,Ticker,Name,Position,Price,
+1,GOOG:US,Google Inc,1,0,
+2,8446:TT,HIM International Music Inc,1,6e+08,
+3,GOOG:US,Google Inc,0,0,
+4,DIS:US,Walt Disney Co/The,1,6e+06,
+5,AAPL:US,Apple Inc,1,2e+06,
+6,AAPL:US,Apple Inc,0,0,
+
+==================================
+In Memory Object Diagnosis Data :
+
+geoLocation Object : ipAddress : 174.236.129.154, countryName : United States,
+countryCode = US, lastRefrestTime : 1420067175252
+Device Id : ab34ef102a554e13a39bc8fbcb98506b
+Config Object :
+Platform : androidhandset
+Pre-roll Frequency : 2
+firstVideoShowsAd : false
+customStocksLimit : 100
+Ad Config Params
+MARKETS_MENU/41803
+MAKRETS_LIST_EQUITY_INDICES/41803
+MARKETS_LIST_COMMODITIES/41803
+MARKETS_LIST_BONDS/41803
+MARKETS_LIST_CURRENCIES/41803
+MARKETS_LIST_FUTURES/41803
+COMPANY_NEWS_HEADLINES/41803
+COMPANY_NEWS_ARTICLE/41803
+MY_STOCKS_LIST_SECURITIES/41803
+NEWS_ARTICLE/41803
+NEWS_HEADLINES/41803
+NEWS_Preroll/41815
+OFFLINE_BANNER/7164
+INTERSTITIAL_NEWS/7161
+INTERSTITIAL_MARKETS/7162
+INTERSTITIAL_MY_STOCKS/7163
+TEST_INTERSTITIAL/6774
+TEST_BANNER/5493
+TEST_OFFLINE_BANNER/7113
+TEST_NEWS_PREROLL/7113
+
+LGE LG-VS410PP running Android 2.3.6 level 10
